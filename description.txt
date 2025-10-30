@@ -1,0 +1,4 @@
+A narrative 2D game built in Python (Pygame).
+The player explores different chapters, interacts with story fragments, and completes writing challenges to progress.
+Each chapter combines atmosphere, exploration, and emotional storytelling.
+!!! NOT FINISHED !!!
